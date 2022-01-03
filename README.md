@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasserIssam
 - 👀 I’m interested in coding, volleyball, gaming and music.
-- 🌱 I’m currently learning Goland, Python, Java, Javascript, Git, SQL, Bash, R.
+- 🌱 I’m currently learning Golang, Python, Java, Javascript, Git, SQL, Bash, R.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me : send me a message on github.
 
